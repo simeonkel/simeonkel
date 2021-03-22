@@ -1,0 +1,2 @@
+- I'm Simeon Ogbonnaya, and love automation, scripting and writting code.
+- I'm a passionate DevOps engineer with experience in Azure, AWS.
